@@ -43,8 +43,8 @@ height: 700px;
 width: 850px;
 
 }
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
   .Image {
     height: 100px;
   }
-}
+} */
