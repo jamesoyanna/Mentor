@@ -43,8 +43,29 @@ height: 700px;
 width: 850px;
 
 }
-/* @media (max-width: 480px) {
+@media (max-width: 480px) {
   .Image {
-    height: 100px;
+    width: 70%;
+    height: 70hv;
   }
-} */
+}
+
+.photo{
+  height: 500px;
+  width: 400px;
+}
+
+.container{
+  background: #0b4341;
+  height: 700px;
+ width: 850px;
+  
+}
+
+h3{
+  padding-top: 40px;
+}
+
+p{
+  padding-top: 300px;
+}
